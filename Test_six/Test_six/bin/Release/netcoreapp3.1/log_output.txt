@@ -1,0 +1,5 @@
+Input a =
+Input b =
+a =4
+b = 10
+log = -140

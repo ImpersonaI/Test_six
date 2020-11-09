@@ -1,0 +1,13 @@
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.exe
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.deps.json
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.runtimeconfig.json
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.dll
+C:\Users\Роман\source\repos\Test_six\Test_six\bin\Release\netcoreapp3.1\Test_six.pdb
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.dll
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.pdb
+C:\Users\Роман\source\repos\Test_six\Test_six\obj\Release\netcoreapp3.1\Test_six.genruntimeconfig.cache
